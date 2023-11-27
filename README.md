@@ -1,7 +1,7 @@
 <h3>SQLAlchemy-Challenge</h3>
 <h5>Code location:</h5>
 
-> The climate analyis can be found by selecting the climate_starter.ipynb file above.
+> The climate analysis can be found by selecting the climate_starter.ipynb file above.
 > 
 > The web application can be found by selecting the app.py file above.
 
