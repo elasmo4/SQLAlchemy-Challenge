@@ -7,7 +7,7 @@
 
 <h5>Modules Utilized</h5>
 
-> Pandas, Matplotlib, SQLAlchemy
+> SQLAlchemy, Pandas, Matplotlib
 > 
 
 <h5>Code source and Usage:</h5>
